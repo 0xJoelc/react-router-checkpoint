@@ -5,6 +5,7 @@ const movieData = [
     description: "American legal crime",
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsWq2HYiH0q-c_Q5OL5ocJJe6s9c2nEuX1BQ&s",
+    trailerUrl: "https://www.youtube.com/embed/PjElOuIECdE?si=cFUhaYh8rwwdngOB",
     rating: 10,
   },
   {
@@ -13,6 +14,7 @@ const movieData = [
     description: "American crime drama",
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5rojTX9W1APDzXztf3Uwkd2rZE8hLQX5Nww&s",
+    trailerUrl: "https://www.youtube.com/embed/VFkjBy2b50Q?si=ZjA8iKi90GWwJtPg",
     rating: 10,
   },
   {
@@ -22,6 +24,7 @@ const movieData = [
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJB1fo8gtK-uodbcrc64wm909bB9qZvLzjg&s",
     rating: 9,
+    trailerUrl: "https://www.youtube.com/embed/0yCoLNmhJWM?si=",
   },
   {
     movieID: 4,
@@ -30,6 +33,7 @@ const movieData = [
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdB9VFrEegtbqegkT_rnbe1IxlFzhut3fpjQ&s",
     rating: 7,
+    trailerUrl: "https://www.youtube.com/embed/cUnkjEIW2-o?si=M-8_K-WTxyqYlbAx",
   },
   {
     movieID: 5,
@@ -38,6 +42,7 @@ const movieData = [
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUxhriVT2bgyefeHGrdZC_0bpyBdMJgsJoSQ&s",
     rating: 8.5,
+    trailerUrl: "https://www.youtube.com/embed/1S5khOZ1wBs?si=JduBT6O3UTMYxsvS",
   },
   {
     movieID: 6,
@@ -46,6 +51,7 @@ const movieData = [
     posterURL:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpTUo9M4zCIci4hxHUQkH1UKEB7-hWOo5RQ&s",
     rating: 8.7,
+    trailerUrl: "https://www.youtube.com/embed/66vDSStg8GA?si=xGIXiXB4fMbgRWl7",
   },
 ];
 
